@@ -11,7 +11,7 @@
     <br />
     <br />
     <img src="https://cdn.discordapp.com/attachments/614876304051011602/914303234619867186/unknown.png">
-    <a href="https://vanessanguyen3.github.io/horiseon-code-refractor">View Demo</a>
+    <a href="https://vanessanguyen3.github.io/portfolio">View Demo</a>
   </p>
 </p>
 
